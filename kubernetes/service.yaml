@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: simulado-lb
+  namespace: jpncloud
+  annotations:
+    service.beta.kubernetes.io/oci-load-balancer-shape: "10Mbps"
+    service.beta.kubernetes.io/oci-load-balancer-internal: "false"
+spec:
+  selector:
+    app: simulado
+  type: LoadBalancer
+  ports:
+    - protocol: TCP
+      port: 80         
+      targetPort: 8501

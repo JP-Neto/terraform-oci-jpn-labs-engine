@@ -1,0 +1,29 @@
+# --- Terraform Specific ---
+*.tfvars
+*.tfvars.json
+
+# Ignora estados locais do Terraform
+*.tfstate
+*.tfstate.*
+**/.terraform/
+.terraform.lock.hcl
+backend.tf
+data.tf
+
+# --- OCI / Networking Rules ---
+route_rules_private.json
+route_rules_public.json
+
+# --- Kubernetes / Secrets ---
+certificate.yaml
+clusterissuer.yaml
+secrets.yaml
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+
+# Chaves privadas 
+*.pem
+*.key

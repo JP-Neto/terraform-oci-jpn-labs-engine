@@ -1,0 +1,34 @@
+{
+  "ingress_rules": [
+    {
+      "description": "ALLOW_ALL_TCP_INBOUND_TEST",
+      "from_port": 1,
+      "to_port": 65535,
+      "protocol": "tcp",
+      "cidr_blocks": ["0.0.0.0/0"]
+    },
+    {
+      "description": "ALLOW_ALL_UDP_INBOUND_TEST",
+      "from_port": 1,
+      "to_port": 65535,
+      "protocol": "udp",
+      "cidr_blocks": ["0.0.0.0/0"]
+    }
+  ],
+  "egress_rules": [
+    {
+      "description": "ALLOW_ALL_TCP_OUTBOUND_TEST",
+      "from_port": 1,
+      "to_port": 65535,
+      "protocol": "tcp",
+      "cidr_blocks": ["0.0.0.0/0"]
+    },
+    {
+      "description": "ALLOW_ALL_UDP_OUTBOUND_TEST",
+      "from_port": 1,
+      "to_port": 65535,
+      "protocol": "udp",
+      "cidr_blocks": ["0.0.0.0/0"]
+    }
+  ]
+}

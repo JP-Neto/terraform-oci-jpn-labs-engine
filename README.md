@@ -1,9 +1,12 @@
 # 🚀 OCI JPN Labs Infrastructure
 
-![OCI](https://img.shields.io/badge/Provider-Oracle_Cloud-red?style=for-the-badge&logo=oracle)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Orchestrator-Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Provider: OCI](https://img.shields.io/badge/Provider-Oracle_Cloud-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![IaC: Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)](./terraform)
+[![Orchestrator: Kubernetes](https://img.shields.io/badge/Orchestrator-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](./k8s)
+[![License: MIT](https://img.shields.io/badge/License-MIT-44cc11)](./LICENSE)
+[![Portfolio: JPN Cloud](https://img.shields.io/badge/Portfolio-JPN_Cloud-blue?style=flat&logo=target)](https://jpncloud.com.br)
+
+---
 
 ## 📌 Sobre o Projeto
 
@@ -129,3 +132,4 @@ terraform/
 <p align="center">
   &copy; 2026 JPN Cloud Solutions • João Pessoa/PB • Architecting resilient cloud platforms
 </p>
+

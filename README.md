@@ -55,20 +55,6 @@ Para evitar exposição de dados sensíveis, seguimos algumas diretrizes:
 
 ---
 
-## 👨‍💻 Sobre o Autor
-
-**José Neto (Neto)** – Founder da **JPN Cloud Solutions**  
-
-Engenheiro DevOps & Arquiteto Cloud com mais de 10 anos de experiência em infraestrutura híbrida:
-
-* 🏆 **3x AWS Certified** – Solutions Architect, Developer e Cloud Practitioner  
-* 🏆 **Microsoft Azure Certified** – AZ-900  
-* Focado em **automação, infraestrutura como código e gestão segura de ambientes Cloud**
-
-[LinkedIn](https://linkedin.com/in/josepneto) | [Site Oficial](https://jpncloud.com.br) | [JPN Labs](https://labs.jpncloud.com.br)
-
----
-
 ## 🚀 Como Utilizar
 
 1. **Clone o repositório**:
@@ -133,8 +119,12 @@ terraform/
 * [Terraform OCI Provider](https://registry.terraform.io/providers/oracle/oci/latest/docs)  
 * [Kubernetes Official Docs](https://kubernetes.io/docs/)  
 * [Cloudflare Docs](https://developers.cloudflare.com/)  
+* [LinkedIn](https://linkedin.com/in/josepneto) 
+* [Site Oficial](https://jpncloud.com.br) 
+* [JPN Labs](https://labs.jpncloud.com.br)
 
 ---
+
 
 <p align="center">
   &copy; 2026 JPN Cloud Solutions • João Pessoa/PB • Architecting resilient cloud platforms

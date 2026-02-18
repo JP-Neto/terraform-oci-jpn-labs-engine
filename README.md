@@ -21,7 +21,7 @@ Este repositório traz o **esqueleto de Infraestrutura como Código (IaC)** para
 
 > Para o diagrama completo, veja [topologia.drawio](docs/topologia.drawio)
 
-## 🏗️ Arquitetura e Organização
+## 🚧Arquitetura e Organização
 
 O projeto está dividido em camadas para garantir a separação de responsabilidades e facilitar a manutenção:
 
